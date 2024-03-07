@@ -1,3 +1,30 @@
+#Myignore
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.recipe
+*.lik
+*.log
+*.lastbuildstate
+*.tlog
+*.idb
+*.pdb
+*unsuccessfulbuild
+*.ilk
+*.txt
+*.iobj
+*.ipdb
+*.sdf
+*.obj.enc
+*.enc
+
 # Prerequisites
 *.d
 
